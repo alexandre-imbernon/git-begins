@@ -1,4 +1,6 @@
-git add .
-git commit -m
-git push -u
-git pull
+Ajouter un fichier / git add .
+Ajouter une annotation à un fichier / git commit -m
+Envoyer un fichier / git push -u
+Récupérer un fichier / git pull
+Créer une nouvelle branche / git checkout -b
+Switcher de branche / git check out 
